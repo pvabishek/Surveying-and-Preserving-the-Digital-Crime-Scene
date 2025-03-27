@@ -1,5 +1,4 @@
 # Surveying-and-Preserving-the-Digital-Crime-Scene
-# Surveying and Preserving the Digital Crime Scene
 ```
 NAME : ABISHEK P V
 REG NO: 212222230003
